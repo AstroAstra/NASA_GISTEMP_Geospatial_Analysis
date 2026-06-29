@@ -12,7 +12,7 @@
 
 ## Overview
 
-This project extends temporal climate analysis into spatial analysis — mapping 
+This project extends temporal climate analysis into spatial analysis - mapping 
 *where* on Earth warming is most dramatic, not just *when*. Using NASA's GISS 
 zonal temperature dataset, temperature anomalies are analyzed across eight 
 latitude bands from the Arctic to the Antarctic, covering 145 years from 1880 
