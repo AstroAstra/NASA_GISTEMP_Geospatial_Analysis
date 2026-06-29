@@ -30,11 +30,11 @@ The analysis covers four questions:
 ## Key Findings
 
 **Arctic amplification is real and dramatic:** The Arctic (64°N-90°N) has warmed 
-+3.68°C since 1880-1890 — nearly four times the global average. The Antarctic 
++3.68°C since 1880-1890 - nearly four times the global average. The Antarctic 
 has warmed only +0.15°C over the same period, a 24x difference between the poles.
 
 **Hemispheric divergence is growing:** The Northern Hemisphere has warmed +1.612°C 
-since 1880-1890 versus +0.854°C for the Southern Hemisphere — nearly twice as much. 
+since 1880-1890 versus +0.854°C for the Southern Hemisphere - nearly twice as much. 
 The gap between hemispheres is widening at +0.0252°C per decade.
 
 **Warming is not uniform across latitudes:** Tropical regions show the most 
@@ -42,7 +42,7 @@ consistent warming signal with low year-to-year variability, while polar regions
 show higher variability but stronger long-term trends.
 
 **The 1960-1980 cooling dip in the Northern Hemisphere** corresponds to a period 
-of industrial aerosol pollution that temporarily offset greenhouse warming — a 
+of industrial aerosol pollution that temporarily offset greenhouse warming - a 
 real signal visible in the hemispheric divergence chart.
 
 ---
