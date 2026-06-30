@@ -106,7 +106,7 @@ and upload it when prompted.
 **Option 2 — Local:**
 ```bash
 pip install pandas numpy scipy matplotlib seaborn cartopy geopandas
-jupyter notebook NASA_Earthdata_Geospatial_Analysis.ipynb
+jupyter notebook NASA_GISTEMP_Geospatial_Analysis.ipynb
 ```
 
 Note: Cartopy installation can sometimes require additional system dependencies. 
@@ -141,8 +141,7 @@ Compared to previous projects this notebook introduces:
 
 Built as part of a scientific data analysis portfolio by Emma Follis, a data analyst 
 with a background in Earth and Planetary Science. Currently completing an M.S. in 
-Space Studies at American Public University while contributing to NASA's Exoplanet 
-Watch citizen science program.
+Space Studies at American Public University.
 
 [LinkedIn](https://www.linkedin.com/in/emma-follis) |
 [GitHub](https://github.com/AstroAstra)
